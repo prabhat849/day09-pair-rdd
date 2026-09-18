@@ -1,0 +1,10 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/prabhat/day09-pair-rdd/target/out/jvm/scala-2.12.18/day09-pair-rdd/day09-pair-rdd_2.12-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Day09$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/prabhat/day09-pair-rdd/target/out/jvm/scala-2.12.18/day09-pair-rdd/classes/Day09$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Day09.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/prabhat/day09-pair-rdd/target/out/jvm/scala-2.12.18/day09-pair-rdd/classes/Day09.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	log4j2.properties[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/prabhat/day09-pair-rdd/src/main/resources/log4j2.properties[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
+[0m[[0m[0mdebug[0m] [0m[0mwrote ${OUT}/jvm/scala-2.12.18/day09-pair-rdd/day09-pair-rdd_2.12-0.1.0-SNAPSHOT.jar[0m
